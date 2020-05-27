@@ -8,7 +8,7 @@ public class Info {
 	private Date uptime;
 	private Integer status;
 	
-	//临时字段
+	//临时字段    
 	private String tname;
 
 	public Info() {
